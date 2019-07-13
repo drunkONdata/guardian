@@ -1,13 +1,10 @@
 
 
 <p align="center">
-<img src="travel_hub.png" width=500>
+<img src="guardian.png" width=500>
   
-# guardian
+# Guardian: Your personal emergency broadcast system
 2019 AngelHack Hackathon - Seattle, WA
-
-### The Challenge
-Hack the travel industry by using two to three of Discover’s APIs to create an innovative solution with the goal of improving the travel experience.
 
 ### Motivation
 According to FBI statistics, violent crime in the Seattle area is currently over 65% higher than the national average. Over 61% of women regularly take steps to avoid being sexually assaulted according to YouGov surveys. How can we take steps to make people feel safe and secure?
@@ -20,12 +17,14 @@ According to FBI statistics, violent crime in the Seattle area is currently over
 * Adrienne Lim
 
 ### Our Project
-Guardian is your personal emergency broadcast system that allows you to send text alerts to your closest friends & family with your location and a link to a live video broadcast during a stressful encounter. It uses the Agora RTC platform in conjunction with AutoML modules in AWS (Rekognition & Transcribe) to provide a platform for multimodal sentiment analysis for legal cadence.
+Guardian is your personal emergency broadcast system that allows you to send text alerts to your closest friends & family with your location and a link to a live video broadcast during a stressful encounter. It uses the Agora RTC platform in conjunction with Machine Learning & Deep Learning modules in AWS and Keras to provide a platform for multimodal sentiment analysis for legal cadence.
 
 ### Unique Features
-* Multimodal Sentiment Analysis with AWS Rekognition & AWS Transcribe (facial expression & text sentiment)
-* Time Series Forecasting with Facebook Prophet to predict airport wait times
-* Back-end data analytics platform for extracting user behavior
+* Facial Expression Sentiment Analysis via AWS Rekognition
+* Real-time video broadcasting to your friends & family
+* Video to Audio via ffmpeg (Python)
+* Audio to Text via AWS Transcribe
+* Text Sentiment Classifer using RNN via Keras (Python)
 
 ### Links
 - Presentation Slides: --
@@ -34,5 +33,6 @@ Guardian is your personal emergency broadcast system that allows you to send tex
 ### Future Work
 * Validate multimodal sentiment models with labeled datasets to establish baseline accuracy
 * Deploy "Descrete" mode to broadcast audio or video
-* Leverage data analytics platform to drive merchant acceptance
-* Deploy ML predictive models on data
+* Leverage data analytics platform to drive crime reporting
+* Utilize AWS Kinesis module to handle live video stream
+* Leverage Amazon Comprehend's Text Sentiment
