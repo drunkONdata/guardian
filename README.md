@@ -3,7 +3,7 @@
 <p align="center">
 <img src="guardian.png" width=500>
   
-# Guardian: Your personal emergency broadcast system
+# Guardian: your personal emergency broadcast app
 2019 AngelHack Hackathon - Seattle, WA
 
 ### Motivation
@@ -34,5 +34,6 @@ Guardian is your personal emergency broadcast system that allows you to send tex
 * Validate multimodal sentiment models with labeled datasets to establish baseline accuracy
 * Deploy "Descrete" mode to broadcast audio or video
 * Leverage data analytics platform to drive crime reporting
-* Utilize AWS Kinesis module to handle live video stream
+* Utilize AWS Kinesis module to handle live video & audio streams
 * Leverage Amazon Comprehend's Text Sentiment
+* Real-time transcription with Amazon Transcribe
