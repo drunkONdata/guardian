@@ -1,0 +1,23 @@
+{
+  "name": "angelhack-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecaoile/angelhack-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecaoile/angelhack-sandbox/issues"
+  },
+  "homepage": "https://github.com/ecaoile/angelhack-sandbox#readme",
+  "dependencies": {
+    "agora-rtc-sdk": "^2.8.0"
+  }
+}
