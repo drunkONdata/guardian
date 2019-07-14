@@ -2,8 +2,7 @@
 
 <p align="center">
 <img src="guardian.png" width=500>
-
-<center>2019 AngelHack Hackathon - Seattle, WA - July 2019</center>
+2019 AngelHack Hackathon - Seattle, WA - July 2019</p>
 
 ### Motivation
 According to FBI statistics, violent crime in the Seattle area is currently over 65% higher than the national average. Over 61% of women regularly take steps to avoid being sexually assaulted according to YouGov surveys. How can we take steps to make people feel safe and secure?
