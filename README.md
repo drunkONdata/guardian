@@ -2,8 +2,7 @@
 
 <p align="center">
 <img src="guardian.png" width=500>
-  
-# Guardian: your personal emergency broadcast app
+
 2019 AngelHack Hackathon - Seattle, WA - July 2019
 
 ### Motivation
