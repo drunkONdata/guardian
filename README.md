@@ -17,7 +17,7 @@ According to FBI statistics, violent crime in the Seattle area is currently over
 * Adrienne Lim
 
 ### Our Project
-Guardian is your personal emergency broadcast system that allows you to send text alerts to your closest friends & family with your location and a link to a live video broadcast during a stressful encounter. It uses the Agora RTC platform in conjunction with Machine Learning & Deep Learning modules in AWS and Keras to provide a platform for multimodal sentiment analysis for legal cadence.
+Guardian is your personal emergency broadcast system that allows you to send text alerts to your closest friends & family with your location and a link to a live video broadcast during a dangerous encounter. It uses the Agora RTC platform in conjunction with Machine Learning & Deep Learning modules in AWS and Keras to provide a platform for multimodal sentiment analysis for legal cadence.
 
 ### Unique Features
 * Facial Expression Sentiment Analysis via AWS Rekognition
