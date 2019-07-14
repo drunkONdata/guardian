@@ -3,7 +3,6 @@ const axios = require('axios')
 // const $ = require('jquery');
 
 const getBitlyLink = async (long_url, api_key, func) => {
-    console.log('work')
     try {
         const response = await axios(
             "https://api-ssl.bitly.com/v4/shorten",
