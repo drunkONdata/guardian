@@ -23,4 +23,4 @@ The following is required to run the program locally.
 
 ## Architecture
 *Languages*: HTML, CSS, JavaScript <br />
-*Type of Applicaiton*: Front end application <br />
+*Type of Application*: Front end application <br />
